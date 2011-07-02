@@ -1,2 +1,2 @@
 exclude: ['Gemfile', 'Gemfile.lock']
-permalink: /:year/:title
+permalink: /articles/:title.html
