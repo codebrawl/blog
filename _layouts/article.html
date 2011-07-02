@@ -2,3 +2,15 @@
 {{ page.date | date_to_string }}
 
 {{ content }}
+
+<h3>Comments</h3>
+
+<div id="disqus_thread"></div>
+<script>
+  var disqus_shortname = 'codebrawl';
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
