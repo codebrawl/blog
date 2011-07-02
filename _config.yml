@@ -1,2 +1,2 @@
-exclude: ['Gemfile', 'Gemfile.lock', 'README.markdown']
+exclude: ['Gemfile', 'Gemfile.lock', 'README.markdown', 'Rakefile']
 permalink: /articles/:title.html
