@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Contest Rundown: RSpec formatters"
+title: "Contest rundown: RSpec formatters"
 ---
 
 In our [very first contest](http://codebrawl.com/contests/rspec-formatters), we asked the contestants to build a formatter for the [RSpec](http://relishapp.com/rspec) testing library. First of all, congratulations to Iain, Thilko and Chad, for being the first ever to respectively take the first, second and third place! All of you did a great job, so let's go over all five entries for this week.
